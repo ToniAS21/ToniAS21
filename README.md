@@ -1,4 +1,4 @@
-# Halo semua!
+# Hi Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">!
 
 - Perkenalkan nama saya **Toni Andreas Susanto**.  
 
