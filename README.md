@@ -9,7 +9,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{ToniAS21}/count.svg)
 
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/ToniAS21/Profile-Github/blob/main/languages.svg">
 
 
 
