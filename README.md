@@ -13,29 +13,35 @@
 
 
 
+## ⭐ Popular Repositories
+
+| 🎓 Courses | · [Dicoding](https://github.com/ToniAS21/Dicoding) · [Algoritma Data Science School](https://github.com/ToniAS21/Algoritma-Data-Science-School-Bootcamp-) |
+|:--------|:--------------------|
+| ⚙ Project 1| · [Proyek Analisis Data: E-Commerce Analysis](https://github.com/ToniAS21/Analisis-Data-Python) |
+| Project 2 ⚙| · [Sistem Rekomendasi Buku](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Terapan%20(MLT)/Proyek%20Akhir) |
+| ⚙ Project 3| · [Predictive Analytics Bicycle](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Terapan%20(MLT)/Proyek%20Pertama) | 
+| Project 4 ⚙| · [Analisis Sentimen Konsumen](https://github.com/ToniAS21/Dicoding/tree/main/Machine%20Learning%20Operations%20(MLOps)/Project%20I%20Machine%20Learning%20Operations%20(ML%20Ops)) |
 
 
+## 📝 My Popular Articles 
+
+1. [Fenomena ChatGPT OpenAI, Peluang atau Ancaman?](https://blog.algorit.ma/chatgpt-openai/)
+2. [Recommendation System Membuat Pengguna TikTok Kecanduan Scrolling Berjam-jam!](https://blog.algorit.ma/recommendation-system-tiktok/)
+3. [5 Contoh Penerapan Data Science dalam Sumber Daya Manusia (SDM) ](https://blog.algorit.ma/data-science-sumber-daya-manusia-sdm/)
+4. [Internet of Things dan Smart City: Teknologi di Balik Kota Cerdas](https://blog.algorit.ma/smart-city/)
+5. [Data Science di Badminton: Big Data Hantarkan Carolina Marin Sabet Juara Olimpiade](https://blog.algorit.ma/data-science-badminton-carolina-marin-juara-olimpiade/)
+6. [Revolusi AI Google: Menjembatani Kesenjangan antara Teknologi dan Kehidupan Sehari-hari](https://blog.algorit.ma/revolusi-ai-google/)
+7. [Cybersecurity di Perbankan: Pentingnya, Ancaman, dan Tantangan](https://blog.algorit.ma/cybersecurity-perbankan/)
 
 
+## 🔍 You Can Find Me at
 
-
-
-
-
-
-
-
-- Perkenalkan nama saya **Toni Andreas Susanto**.  
-
-- Saya seorang mahasiswa di Universitas Mulawarman
-
-- Saya tertarik dalam *Machine Learning* dan ingin mendalami lebih lanjut!!  
-
-- Bagi teman-teman bisa memberikan masukan ataupun pengalaman untuk mengembangkan diri saya!! Terima Kasih 
-
-<p align="left">
-<a href="https://github.com/ToniAS21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ToniAS21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ToniAS21&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/toni-andreas-s" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://instagram.com/toni_andreas_s" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
+
+
+
+
+
